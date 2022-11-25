@@ -16,6 +16,7 @@ Cybersecurity: What It Is and Why It Matters
 
 Free Online Courses to Get Started
 ----------------------------------------------------------------------------------------------------------------------------------------
+* [Neelesh Patel aka notnue's OSI model writing wrt to working of ping and http traffics] : https://drive.google.com/file/d/14t_Yn3kRe3VJATGyBs5m1kZDiG9NiC54/view?usp=sharing
 
 * [Professor Messer’s CompTIA N10-007 Network+ Course](https://www.professormesser.com/network-plus/n10-007/n10-007-training-course/)
 * [Professor Messer’s SY0-601 CompTIA Security+ Course](https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/)
