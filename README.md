@@ -16,7 +16,7 @@ Cybersecurity: What It Is and Why It Matters
 
 Free Online Courses to Get Started
 ----------------------------------------------------------------------------------------------------------------------------------------
-* [Neelesh Patel aka notnue's OSI model writing wrt to working of ping and http traffics] : https://drive.google.com/file/d/14t_Yn3kRe3VJATGyBs5m1kZDiG9NiC54/view?usp=sharing
+* [[Neelesh Patel](https://linkedin.com/in/user-neeleshpatel) aka notnue's OSI model writing wrt to working of ping and http traffics] : https://drive.google.com/file/d/14t_Yn3kRe3VJATGyBs5m1kZDiG9NiC54/view?usp=sharing
 
 * [Professor Messer’s CompTIA N10-007 Network+ Course](https://www.professormesser.com/network-plus/n10-007/n10-007-training-course/)
 * [Professor Messer’s SY0-601 CompTIA Security+ Course](https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/)
@@ -174,7 +174,7 @@ Detailed GoVanguard Cybersecurity Resources
 * [List of Tools Utilized by GoVanguard for Security Testing](https://github.com/GoVanguard/main-security-testing-tools)
 * [The Full GoVangua
 rd InfoSec Encyclopedia](https://github.com/GoVanguard/list-infosec-encyclopedia)
-Footer
+
 
 
 --------------------------------
@@ -182,7 +182,7 @@ Footer
 Cybersecurity Educational Resources
 ==========================
 
-This is an [awesome list](https://github.com/sindresorhus/awesome) of resources related to teaching cybersecurity, primarly to running Capture the Flag games for educational purposes. The resources are divided into categories and sorted alphabetically within each category.
+This is an list of resources related to teaching cybersecurity, primarly to running Capture the Flag games for educational purposes. The resources are divided into categories and sorted alphabetically within each category.
 
 ## Capture the Flag (CTF) games
 
